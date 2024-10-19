@@ -1,0 +1,60 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+h1 {
+  background-color: lightblue;
+  text-align: center;
+  padding-bottom: 25px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.winner {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+img {
+  width: 500px;
+  height: 300px;
+}
+.worldcup {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2%;
+}
+p {
+  margin-bottom: 2%;
+}
+table,
+th,
+td {
+  border: 2px solid black;
+  background-color: aqua;
+}
+table {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 26px;
+  border-style: dashed;
+}
+th {
+  background-color: lightgreen;
+}
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.input {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
